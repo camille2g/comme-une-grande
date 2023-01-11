@@ -1,0 +1,15 @@
+/Users/camilledeg/Documents/comme-une-grande/youhou/youhou/bin/Debug/net6.0/youhou
+/Users/camilledeg/Documents/comme-une-grande/youhou/youhou/bin/Debug/net6.0/youhou.deps.json
+/Users/camilledeg/Documents/comme-une-grande/youhou/youhou/bin/Debug/net6.0/youhou.runtimeconfig.json
+/Users/camilledeg/Documents/comme-une-grande/youhou/youhou/bin/Debug/net6.0/youhou.dll
+/Users/camilledeg/Documents/comme-une-grande/youhou/youhou/bin/Debug/net6.0/youhou.pdb
+/Users/camilledeg/Documents/comme-une-grande/youhou/youhou/obj/Debug/net6.0/youhou.csproj.AssemblyReference.cache
+/Users/camilledeg/Documents/comme-une-grande/youhou/youhou/obj/Debug/net6.0/youhou.GeneratedMSBuildEditorConfig.editorconfig
+/Users/camilledeg/Documents/comme-une-grande/youhou/youhou/obj/Debug/net6.0/youhou.AssemblyInfoInputs.cache
+/Users/camilledeg/Documents/comme-une-grande/youhou/youhou/obj/Debug/net6.0/youhou.AssemblyInfo.cs
+/Users/camilledeg/Documents/comme-une-grande/youhou/youhou/obj/Debug/net6.0/youhou.csproj.CoreCompileInputs.cache
+/Users/camilledeg/Documents/comme-une-grande/youhou/youhou/obj/Debug/net6.0/youhou.dll
+/Users/camilledeg/Documents/comme-une-grande/youhou/youhou/obj/Debug/net6.0/refint/youhou.dll
+/Users/camilledeg/Documents/comme-une-grande/youhou/youhou/obj/Debug/net6.0/youhou.pdb
+/Users/camilledeg/Documents/comme-une-grande/youhou/youhou/obj/Debug/net6.0/youhou.genruntimeconfig.cache
+/Users/camilledeg/Documents/comme-une-grande/youhou/youhou/obj/Debug/net6.0/ref/youhou.dll
